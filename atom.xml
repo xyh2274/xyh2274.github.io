@@ -3,12 +3,19 @@
     <id>https://xyh2274.github.io</id>
     <title>有夢書架</title>
     <link href="https://xyh2274.github.io" />
-    <updated>2020-08-13T13:45:48.000Z</updated>
+    <updated>2023-08-26T10:51:35.000Z</updated>
     <category term="Foo" />
     <category term="Bar" />
     <category term="Baz" />
     <category term="Hexo" />
     <category term="教程" />
+    <entry>
+        <id>https://xyh2274.github.io/2023/08/26/%E5%A4%A7%E9%83%BD%E5%A5%BD%E7%89%A9%E4%B8%8D%E5%9D%9A%E7%89%A2%EF%BC%8C%E5%BD%A9%E4%BA%91%E6%98%93%E6%95%A3%E7%90%89%E7%92%83%E8%84%86/</id>
+        <title>大都好物不坚牢，彩云易散琉璃脆</title>
+        <link rel="alternate" href="https://xyh2274.github.io/2023/08/26/%E5%A4%A7%E9%83%BD%E5%A5%BD%E7%89%A9%E4%B8%8D%E5%9D%9A%E7%89%A2%EF%BC%8C%E5%BD%A9%E4%BA%91%E6%98%93%E6%95%A3%E7%90%89%E7%92%83%E8%84%86/"/>
+        <content type="html"></content>
+        <updated>2023-08-26T10:51:35.000Z</updated>
+    </entry>
     <entry>
         <id>https://xyh2274.github.io/2020/08/13/computer-science/note/theme-shoka-doc/special/</id>
         <title>Step.4 主题特殊功能</title>
